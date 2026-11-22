@@ -1,1 +1,1 @@
-Standard build instructions
+Standard build instructions updated with new pipeline
