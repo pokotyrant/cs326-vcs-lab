@@ -1,1 +1,2 @@
 Browser engine: Chromium
+Browser engine: Firefox
